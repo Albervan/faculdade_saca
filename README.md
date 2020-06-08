@@ -6,6 +6,7 @@ Sua funções principais são:
 * Cadastro de Cidades
 * Controle de Clientes
 * Controle de Fornecedores
-* Controle de 
+* Controle de Produtos
+* Geração de Nota Fiscal
 
 > Projeto em Pascal criado durante período de estudo da faculdade para avaliação das aulas de Algorítimo e Lógica de Programação.
